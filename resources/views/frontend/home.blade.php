@@ -267,7 +267,7 @@
                 <ul class="contact">
                  
 
-                            <li>{{ $about->phone }}</li>
+                  <li>{{ $about->phone }}</li>
                   <li>{{ $about->emails }}</li>
               
                   <li>
